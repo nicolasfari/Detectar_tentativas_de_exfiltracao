@@ -1,6 +1,4 @@
-# Detectar_tentativas_de_exfiltracao
-Detectar tentativas de exfiltração de dados
-# Data Exfiltration Detection Lab
+# Detectar tentativas de exfiltração de dados
 
 > **Plataforma:** TryHackMe / LetsDefend  
 > **Ferramentas:** Wireshark · Splunk (SPL)  
