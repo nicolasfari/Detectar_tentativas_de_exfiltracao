@@ -4,7 +4,7 @@ Detectar tentativas de exfiltração de dados
 
 > **Plataforma:** TryHackMe / LetsDefend  
 > **Ferramentas:** Wireshark · Splunk (SPL)  
-> **Protocolos analisados:** DNS Tunneling · FTP · HTTP · ICMP  
+> **Protocolos analisados:** DNS Tunneling · FTP
 > **Objetivo:** Detectar e investigar tentativas de exfiltração de dados usando análise de tráfego de rede (PCAP) e correlação de logs em SIEM.
 
 ---
